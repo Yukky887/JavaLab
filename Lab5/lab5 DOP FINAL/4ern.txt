@@ -1,0 +1,13 @@
+//                    Scanner in = new Scanner(System.in);
+//                    System.out.println("Внимание! У пользователя " + s1 + " уже есть номер, вы уверены, что хотите перезаписать его номер на новый?");
+//                    System.out.println("Нажмите 0, если Нет");
+//                    System.out.println("Нажмите 1, если Да");
+//                    int choiceNum = in.nextInt();
+//                    //Остается старый номер
+//                    if (choiceNum == 0) {
+//                        System.out.println("Вы выбрали Нет");
+//                    }
+//                    //Присвоить новый номер абоненту
+//                    if (choiceNum == 1) {
+//                        System.out.println("Вы выбрали Да");
+//                        tpbk.put(s1, new LinkedHashSet<>(Collections.singleton(number)));
